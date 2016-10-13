@@ -1,0 +1,19 @@
+.niceParagraph {
+  background-color: cornflowerblue;
+  font-family: "Snippet";
+}
+
+#Copyleft {
+  background-color: grey;
+  font-family: "Snippet";
+}
+
+Header {
+  color: cornflowerblue;
+  font-family: "Ultra";
+  font-size: 28px;
+}
+
+Body {
+	font-family: "Snippet"
+}
