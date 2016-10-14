@@ -1,0 +1,96 @@
+header {
+  color: cornflowerblue;
+  font-family: "Ultra";
+  font-size: 28px;
+  padding: 30px 10px;
+  text-align: center;
+
+}
+
+header:hover {
+	background-color: ghostwhite;
+	background-image: url("night.gif");
+}
+
+nav {
+	color: ghostwhite;
+	background-color: dimgray;
+  font-family: "Ultra";
+  font-size: 18px;
+  padding: 30px 10px;
+  text-align: left;
+
+}
+
+.articleContainer {
+	background-color: gainsboro;
+	padding: 30px 10px;
+	border: 20px;
+	text-align: left;
+}
+
+table {
+  color: white;
+  background-color: darkslategrey;
+  font-family: "Snippet";
+  text-align: center;
+}
+
+h1 {
+  font-size: 30px;
+  background-color: lightgray;
+  text-align: center;
+}
+
+.Author {
+  font-size: 15px;
+}
+
+.niceParagraph {
+  background-color: ;
+  font-family: "Snippet";
+  margin-right: 30px;
+}
+
+footer {
+  font-size: 16px;
+  padding: 20px 5px;
+  background-color: #696969;
+  border-top-color: solid white;
+  border-top: 5px;
+  color: white;
+  text-align: center;
+}
+
+#Copyleft {
+  background-color: grey;
+  font-family: "Snippet";
+}
+
+a nav:link {
+  color: white;
+}
+
+a nav:visited {
+` color: white;
+}
+
+a nav:hover {
+  color: #999999;
+}
+
+#coding {
+	width: 15%;
+	height:15%;
+	float: left;
+	margin-right: 20px;
+	-webkit-box-shadow:10px 5px 5px #888888;
+  	-moz-box-shadow:10px 5px 5px #888888;
+  	box-shadow:10px 5px 5px #888888;
+
+}
+
+
+
+
+
